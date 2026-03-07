@@ -6,7 +6,7 @@
 - 适用平台：Windows
 - 本仓库用途：GitHub Pages 介绍页与下载入口
 
-在线介绍页：部署后可通过 GitHub Pages 访问（默认 `index.html`）。
+[在线介绍页](https://guiwuyao.github.io/timeline/)。
 
 ## 下载
 
