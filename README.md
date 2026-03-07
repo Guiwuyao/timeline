@@ -10,9 +10,9 @@
 
 ## 下载
 
-- 夸克网盘链接：`https://pan.quark.cn/s/b190d397a66e`
-- 安装包：`timeline Setup 2.0.0.exe`
-- 分享口令：`我用夸克网盘给你分享了「timeline Setup 2.0.0.exe」，点击链接或复制整段内容，打开「夸克APP」即可获取。/~d5f23LwHKg~:/`
+- 夸克网盘链接：`https://pan.quark.cn/s/d6828f450a53`
+- 下载包：`timeline`
+- 分享口令：`我用夸克网盘给你分享了「timeline」，点击链接或复制整段内容，打开「夸克APP」即可获取。/~7fd53LwQoq~:/`
 
 ## 核心功能
 
